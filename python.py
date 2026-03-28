@@ -1,3 +1,3 @@
-a = "dinesh"
+a = "dinesh vanam"
 b = "Dinesh"
-print(a + " " + b)
+print(f"{a} {b}")
